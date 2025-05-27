@@ -1,5 +1,10 @@
 # Lab 9 - Starter
 
+## Github Repo url : 
+
+## GitHub pages url : https://beepbeeepimajeep.github.io/Lab9_Starter/
+
+
 ### AI-Assisted Planning & Debugging Notes
 
 ChatGPT was used strategically to assist in both planning and debugging:
