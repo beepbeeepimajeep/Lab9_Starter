@@ -1,6 +1,6 @@
 # Lab 9 - Starter
 
-## Github Repo url : 
+## Github Repo url : https://github.com/beepbeeepimajeep/Lab9_Starter
 
 ## GitHub pages url : https://beepbeeepimajeep.github.io/Lab9_Starter/
 
